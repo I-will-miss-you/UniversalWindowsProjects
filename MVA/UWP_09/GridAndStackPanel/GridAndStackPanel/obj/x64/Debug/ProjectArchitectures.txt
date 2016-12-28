@@ -1,0 +1,1 @@
+C:\Users\fonse\Documents\GitHub\UniversalWindowsProjects\MVA\UWP_09\GridAndStackPanel\GridAndStackPanel\GridAndStackPanel.csproj;x64

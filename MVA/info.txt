@@ -1,0 +1,252 @@
+Microsoft Virtual Academy
+- Windows 10 Developmente for Absolute Beginners 
+
+Complete: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 
+Not completed: ..., 80.
+
+-> 18horas - com a execeção de laboratórios, testes de conhecimento e avaliação
+-> 80 módulos
+-> 69 avaliações
+
+
+
+
+1 | Introdução
+Bob explica o propósito e o público a que se destina as aulas, o que esperar, como melhor aproveitar, que ferramentas são necessárias e os pré-requisitos para iniciar.
+
+2 | Criando seu Primeiro Aplicativo na Plataforma Universal do Windows
+Veja como criar interfaces do usuário utilizando Toolbox e o painel de designer especial do XAML. Acompanhe um evento e programe em C# em resposta ao evento.
+
+3 | Visão Geral sobre Tópicos Relacionados ao Desenvolvimento de Aplicativos na Plataforma Universal do Windows 
+Com o aplicativo Hello World completo, Bob usa a experiência para apresentar muitos conceitos de alto nível que são úteis quando se desenvolve aplicativos maiores e mais interessantes. 
+
+4 | O que é XAML?
+XAML é uma das primeiras linguagens usadas para criar interfaces de usuário para aplicativos para Windows 10. Bob demonstra o mais básico para programar em XAML, como se relaciona com XML e por que isso é importante.
+
+5 |Entendendo Conversores de Tipo
+Bob explica como um analisador XAML inteligente permite você criar interfaces muito mais fácil e sucintamente do que quando em C#, convertendo simples cadeias de caracteres em instâncias de objetos ou enums. 
+
+6 | Entendendo Propriedades Padrões, Propriedades Complexas e Sintaxe do Elemento de Propriedade
+Aprenda como um analisador XAML inteligente permite você manter o seu XAML sucinto e organizado, inferindo muitos elementos e propriedades do seu uso. 
+
+7 | Compreendendo esquemas XAML e declarações de namespace
+Bob aborda "o topo da página", onde as declarações namesmpace XAML são geradas, por padrão, em um template de página nova. Descubra como eles ajudam o produtor e o consumidor do XML a se comunicarem.
+
+8 | Layout XAML Layout com Grades
+Aprenda como criar definições de linhas e colunas e especificar como cada controle pode solicitar para ser inserido dentro de uma célula determinada na grade.
+
+9 | Layout XAML com StackPanel
+Explore o StackPanel, que permite com que você empilhe controles na vertical ou horizontal, e assista a Bob demonstrando o quão poderosa essa abordagem pode ser, usando alguns exemplos avançados.
+
+10 | Revisão Folha de Dicas: Controles de XAML e Layout
+Você se lembra de já ter assistido a um vídeo que explicava ou demonstrava um técnica de programação, mas que você não queria assistir novamente toda a série para encontrar o que buscava? Este vídeo de revisão de folha de dicas é para você.
+
+11 | Desafio do Layout Loovável
+Pronto para por em prática seus novos conhecimentos sobre grades? Tente completar o primeiro desafio. Estes desafios lhe ajudam a consolidar as informações novas e habilidades que aprendeu neste curso.
+
+12 | Desfaio do Layout Louvável: Solução
+Veja este vídeo para conferir uma solução possível para o Desafio do Layout Louvável.
+
+13 | Desafio de Layout Legendário
+Em seguida, você pode dar forma e moldar o XAML para produzir o layout deste desafio com o StackPanel?
+
+14 | Desafio do Layout Legendário: Solução
+Assista este vídeo para conferir uma solução possível para o Desafio do Layout Legendário.
+
+15 | Desafio do Layout Trabalhoso
+Portanto, você tem dois desafios a cumprir. O terceiro desafio requer que você utilize o Grid e o StackPanel em conjunto, como você realmente faria com aplicativos de verdade.
+
+16 | Desafio do Layout Trabalhoso: Solução
+Este é o vídeo com a solução (uma das possíveis) ao Desafio do Layout Trabalhoso
+
+17 | Layout XAML Layout com RelativePanel
+Aprenda sobre novos controles de layout no Windows 10 Explorar o RelativePanel, que lhe permite alinhar bordas de controles com outras bordas de controles ou com a janela em si.
+
+18 | Layout XAML com SplitPanel
+Dê uma olhada no controle do SplitPanel, que é um controle de layout que ajuda a implementar o estilo hambúrguer de navegação. Bob demonstra como mostrar e esconder e como permitir o usuário a espiar um ícone.
+
+19 | Trabalhando com Navegação
+Aprenda a usar as aulas de navegação na Plataforma Universal do Windows, e explores modos diferentes de exibir diferentes páginas para usuários e a passar dados de uma página para outra.
+
+20 | Controles XAML Comuns: Parte 1
+Existem muitos controles na Caixa de Ferramentas que ainda não utilizamos. Assista a este vídeo para explorar ferramentos para opções de entrada de usuário.
+
+21 | Implementando um Menu de Navegação Hambúrguer Simples
+Agora que entendemos omo utilizar o RelativePanel e o SplitPanel, e temos acessos a novos controles da Caixa de Ferramentas, podemos construir sistemas de navegação hambúrguer no estilo do "homem pobre".
+
+22 | Avaliação da Folha de Dicas: Windows 10 Layout Navegação Hambúrguer e Controles
+Você se lembra de ver um vídeo que explicava ou demonstrava a técnica em códigos, mas não quer assistir novamente toda a série de vídeos para encontrar novamente? Esse vídeo de avaliação da folha de dicas é para você.
+
+23 | Desafio do Paraíso de Hambúrguer
+Você viu Bob criar os elementos de um menu de navegação hambúrguer, painel de busca, botão de voltar, e mais. Agora é a sua vez! Você consegue construir um bom app hambúrguer?
+
+24 | Desafio do Paraíso de Hambúrguer Solução
+Assista a esse vídeo para ver uma possível solução para o Desafio do Paraíso de Hambúrguer
+
+25 | Controles XAML Comuns Parte 2
+Nessa segunda parte do tour pela Caixa de Ferramentas, aprenda sobre os controles de entrada de dados, barras e anéis de progresso e mais.
+
+26 | Trabalhando com o ScrollViewer
+Saiba os detalhes sobre como usar o ScrollViewer, e veja o que pode acontecer quando você trabalha com o StackPanel e o ScrollViewer juntos.
+
+27 | Canvas e Formas
+Veja como ordenar formas (e outros controles XAML) no índice Z em um plano 3D.
+
+28 | Estilos XAML 
+Explore estilos, que nos permitem reunir configurações comuns para aplicar junto a muitos controles XAML em uma única página ou por todo o aplicativo. Dê um nome a eles e depois os aplique de maneira mais sucinta.
+
+29 | Temas XAML 
+Como desenvolvedores, podemos utilizar cores no nosso aplicativo para fazer ele se parecer mais com os outros aplicativos. Explores cores, temas de alto contraste e mais.
+
+30 | Avaliação de Folha de Dicas: Controles, ScrollViewer, Canvas, Formas, Estilos, Temas
+Você se lembra de ter visto um vídeo que explicava ou demonstrava uma técnica em códigos, mas não quer assistir a toda a série de vídeos novamente para encontrá-la? Esse vídeo de avaliação de folha de dicas é para você.
+
+31 | Incríveis Soluções para Desafios de Estilos: 
+Aceite este desafio para criar um estilo diferente para o aplicativo do Windows 10! O requisito básico é usar e reusar o máximo de estilos possíveis. Em quantos estilos você consegue pensar?
+
+32 |Incríveis Soluções para Desafios de Estilos: Parte 1: MainPage
+Assista a este vídeo para ver uma possível solução para o Desafio de Estilos Incríveis.
+
+33 | Solução para o Desafio de Estilos Incríveis: Parte 2: Navegação e DonutPage
+Assista a este segundo vídeo para ver uma outra possível solução para o Desafio de Estilos Incríveis.
+
+34 | Solução para o Desafio de Estilos Incríveis: Parte 3: CoffeePage
+Assista a este terceiro vídeo para uma outra possível solução para o Desafio de Estilos Incríveis.
+
+35 | Solução para o Desafio de Estilos Incríveis: Parte 4: SchedulePage
+Assista a este quarto vídeo para mais uma possível solução ao Desafio de Estilos Incríveis.
+
+36 | Solução para o Desafio de Estilos Incríveis: Parte 5: CompletePage
+Assista a este quinto e último vídeo para ver outra possível solução para o Desafio de Estilos Incríveis.
+
+37 | Utilizando o VisualStateManager para Criar Disparadores Adaptáveis
+Veja uma demonstração do bloco de construção básico necessário para criar layouts que sejam adaptáveis à resolução de tela na qual estão sendo exibidos.
+
+38 | Trabalhando com Layout Adaptável
+Utilizando disparadores adaptáveis (estudados na aula anterior), descubra como pensar em termos de layouts adaptáveis mudando grades ou outros controles de layout para células inteiramente diferentes. 
+
+39 | Layout Adaptável com Visualização Específica ao Dispositivo 
+Aprenda sobre layout adaptável, que ajuda quando o layout desejado é tão diferente entre dispositivos que seria difícil utilizar o VisualStateManager.
+
+40 | Vinculação de Dados para Controles de GridView e ListView 
+Aprenda sobre o conceito de vinculação de dados e como vincular uma grade e uma lista de controle para exibir dados de maneira tabular ou em lista. E ainda aprenda os detalhes na criação de modelos de dados.
+
+41 | Mantendo os controles de dados atualizados com ObservableCollection
+Saiba mais sobre uma coleção diferente que notifica todos controles que são associados a ela que possuem novos dados a serem exibidos.
+
+42 | Utilizando Controles de Usuários como Modelos de Dados
+Explore os Controles de Usuário, que são uteis para alterar o tamanho do template de dados para GridView ou ListView quando empregar um layout adaptável.
+
+43 | Revisão de folha de dicas: Layout associado, associação de dados
+Você se lembrar de ter assistido a um vídeo que explicava ou demonstrava uma técnica de programação, mas que você não queria ter que assistir todo ele novamente para encontrar a parte que buscava? Esta revisão de folha de dicas é para você.
+
+44 | Desfaio Peritamente Adaptável
+Neste desafio final, crie um aplicativo de notícias com recursos completos, complete com a navegação estilo hambúrguer, associação de dados, layout adaptável e mais. Boa sorte! Você consegue fazer!
+
+45 | Solução do desafio peritamente adaptável: Parte 1: Configuração e MainPage de Layout
+Veja este vídeo para conhecer uma solução possível para o desafio peritamente adaptável.
+
+46 | Solução do desafio peritamente adaptável: Parte 2: Criando o modelo de dados e associação de dados.
+Assista o segundo vídeo para ver outra possível solução para o desafio peritamente adaptável.
+
+47 | Solução do desafio peritamente adaptável. Parte 3: Criando um controle de usuário como template de dados
+Assista este terceiro vídeo para ver outra possibilidade de resolução do Desafio Peritamente Adaptado.
+
+48 | Solução do Desafio Peritamente Adaptável: Parte 4: Redimensionamento Adaptável
+Assista este quarto e último vídeo para ver outra possível resolução para o Desafio Peritamente Adaptável.
+
+49 | UWP SoundBoard: Introdução
+Nesse ponto, estamos mais ou menos na metade do curso. Na segunda metade, Bob muda o formato. Assista a Bob criando quatro aplicativos inteiramente do zero empregando as técnicas apresentadas.
+
+50 | UWP SoundBoard: Configuração e MainPage do Layout
+Neste primeiro vídeo, aprenda com Bob como ele configura o projeto, copia os ativos no projeto e cria o layout geral da interface do usuário do aplicativo.
+
+51 | UWP SoundBoard: Criação do Modelo de Dados e Vinculação de Dados
+Neste segundo vídeo, observe Bob criar uma classe que representa cada som, popular uma coleção da classe Som, e associá-la a um GridView.
+
+52 | UWP SoundBoard: Reproduzir sons com o Elemento de Mídia
+Neste terceiro vídeo, veja Bob usar o evento ItemClick na GridView para reproduzir a mídia relacionada ao item clicado.
+
+53 | UWP SoundBoard: Adicionar Arrastar e Soltar
+Neste quarto vídeo, Bob demonstra como adicionar Arrastar e Soltar ao aplicativo para permitir que o usuário arraste qualquer arquivo de som de sua área de trabalho para o aplicativo para executá-lo.
+
+54 | UWP SoundBoard: Toques finais
+Neste quinto video, Bob põe a interface de usuário e o código em ordem, dando os toques finais para que o aplicativo possa ser enviado à Windows Store.
+
+55 | UWP SoundBoard: Adicionar Ativos com o Package.AppXManifest
+Neste sexto vídeo, Bob explica o propósito do Package.AppXManifest e demonstra como referenciar a arte do aplicativo para mostrar uma tela inicial. Além disso, ele faz referência à arte da loja.
+
+56 | UWP SoundBoard: Enviar à Windows Store
+Bob mostra aonde ir, como fazer o upload do pacote final e como geralmente é fácil colocar seu app na Windows Store.
+
+57 | UWP Clima: Introdução
+Bob inicia um novo projeto, um belo aplicativo de clima que extrai o tempo atual de um serviço online, usando o dispositivo do usuário para determinar sua localização. 
+
+58 | UWP Clima: Configurar e usar a API Clima - Vídeo
+Neste segundo vídeo, Bob começa criando o projeto e focando em como recuperar dados da API de clima. Ele demonstra como desserializar o JSON retornado pelo serviço de clima.
+
+59 | UWP Clima: Acessar a localização do GPS
+Agora que podemos chamar o serviço web e obter dados, este terceiro vídeo demonstra como acessar a localização atual do dispositivo do usuário com os recursos de localização do Windows 10.
+
+60 | UWP Clima: Testando a Localização no Emulador de Telefone
+Neste terceiro vídeo, Bob revela um bug no aplicativo usando o recurso Mapas do emulador de Telefone. Você pode instruir o Emulador para agir como se o usuário estivesse em uma localização física diferente.
+
+61 | UWP Clima: Atualizar com Notificações Periódicas
+Neste quarto vídeo, Bob mostra como atualizar o conteúdo de um Live Tile programaticamente e então como agendar novas atualizações com dados ao vivo, criando um serviço de web construído com ASP.NET MVC.
+
+62 | UWP Weather: Toques Finais
+Nesse quinto e último vídeo, Bob limpa a interface de usuário e mais.
+
+63 | Jogo para Combinar as Capas de CDs: Introdução
+Bob lança um novo projeto, um jogo de familiaridade que usa a Biblioteca de Música do usuário para testar a familiaridade do usuário com as músicas que ele tem. Aprenda como acessar as bibliotecas especiais no Windows 10
+
+64 | Jogo para Combinar as Capas de CDs: Instalação e Trabalhando com Pastas de Arquivo e de Sistema
+Nesse primeiro vídeo, Bob monta um projeto e foca em ganhar referência a todos os arquivos de música na Biblioteca de Música do usuária.
+
+65 | Jogo para Combinar as Capas de CDs: Layout, Ligação de Dados e Instalação do Jogo
+Nesse segundo vídeo, Bob chama a atenção para o layout de exibição das capas dos CDs para músicas selecionadas aleatoriamente.
+
+66 | Jogo para Combinar as Capas de CDs: Aplicando a Lógica do Jogo
+Nesse terceiro vídeo, Bob refoca na lógica do jogo, abordando algumas partes que faltavam, como playback musical e mais.
+
+67 | Jogo para Combinar as Capas de CDs: Avaliando a entrada do usuário e controlando o progresso
+Nesse quarto vídeo, Bob trabalha com o evento de ItemClick e avalia o álbum escolhido com relação à música que estava tocando.
+
+68 | Jogo para Combinar as Capas de CDs: Habilitando o recurso Jogar Novamente
+Nesse quinto vídeo, Bob aplica a lógica necessária para jogar um novo round, que requer um pouco de refatoração e a configuração de variáveis de volta a um estado válido inicial.
+
+69 | Jogo para Combinar as Capas de CDs Monetizando com anúncios
+Bob mostra como instalar, configurar e utilizar o controle usado para exibir o espaço reservado para o anúncio na interface do usuário. Ele também discute as configurações necessárias ao enviar o app para a Windows Store.
+
+70 | Jogo para Combinar as Capas de CDs: Compra In-App para remoção de anúncios
+Nesse sétimo e último vídeo, Bab mostra como incluir compras dentro do aplicativo para habilitar ou desabilitar alguns dos recursos do seu aplicativo, ou para vender itens de consumo no aplicativo.
+
+71 | Explorador de Heróis: Introdução
+Bob dá início a um novo projeto utilizando os API`s da Marvel para explorar seu universo de personagens e quadrinhos. Nessa lição, aprenda como assinar uma solicitação web API com um hash MD5.
+
+72 | Explorador de Heróis: Acessando o Api Web Marvel
+Neste vídeo, Bob expõe o projeto mas foca em como tomar decisões em como filtrar resultados. Ele usa o JSON resultante de um chamado demonstrativo para criar um gráfico de classes representando os dados.
+
+73 | Explorador de Heróis: Criando um hash MD5 e chamando a API
+Bob demonstra como fazer uma chamada para o API Marvel criando um hash das chaves publicas e privadas e um carimbo de data/hora, junto com aulas de criptografia na estrutura.
+
+74 | Explorador de Heróis: DataBinding e Navegando através do Object Graph
+Neste quarto vídeo, Bob fornece os controles básicos de layout e faz a associação de dados da ListView "master" com a lista de Personagens retornados do chamado da API web.
+
+75 | Explorador de Heróis: Exibindo detalhes dos personagens.
+Neste quinto vídeo, Bob lida com o evento do ItemCick da ListView "master" para exibir os detalhes sobre um detrminado Personagem.
+
+76 | Explorador de Heróis: Exibindo quadrinhos para um personagem
+Neste sexto vídeo, Bob exibe uma lista com quadrinhos recentes do personagem selecionado fazendo uma nova chamada para a API Marvel, criando novas aulas e mais.
+
+77 | Explorador de Heróis: Exibindo detalhes dos quadrinhos
+Neste sétimo vídeo, Bob responde ao evento GridView ItemClick dos quadrinhos para exibir detalhes sobre um determinado quadrinho.
+
+78 | Explorador de Heróis: Adicionando um layout adaptável e limpeza da interface do usuário
+Neste oitavo vídeo, Bob o VisualStateManger e os gatilhos adaptáveis para remodelar de forma adaptativa o layout, baseado no tamanho da janela. Ele também realiza outras tarefas de limpeza na interface do usuário.
+
+79 | Explorador de Heróis: Integração Cortana
+Neste nono vídeo, Bob adiciona integração Cortana para permitir que o usuário atualize a lista de personagens ou para exibir detalhes sobre um dos heróis da lista.
+
+80 | Encerramento da série
+Neste último vídeo da série, Bob lhe parabeniza e mostra onde buscar mais informações sobre a Plataforma Windows Universal

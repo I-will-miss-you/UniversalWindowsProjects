@@ -1,0 +1,1 @@
+C:\Users\fonse\Documents\GitHub\UniversalWindowsProjects\UWP_09\ComplexStackPanel\ComplexStackPanel\ComplexStackPanel.csproj;x86

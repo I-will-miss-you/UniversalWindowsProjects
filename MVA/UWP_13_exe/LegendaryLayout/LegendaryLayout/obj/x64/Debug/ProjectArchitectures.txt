@@ -1,0 +1,1 @@
+C:\Users\fonse\Documents\GitHub\UniversalWindowsProjects\UWP_13_exe\LegendaryLayout\LegendaryLayout\LegendaryLayout.csproj;x64

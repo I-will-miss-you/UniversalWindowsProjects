@@ -1,0 +1,1 @@
+C:\Users\fonse\Documents\GitHub\UniversalWindowsProjects\UWP_04\WhatIsXAML\WhatIsXAML\WhatIsXAML.csproj;x86

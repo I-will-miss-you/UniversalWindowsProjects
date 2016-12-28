@@ -1,0 +1,1 @@
+C:\Users\fonse\Documents\GitHub\UniversalWindowsProjects\UWP_15_exe\LaboriousLayout\LaboriousLayout\LaboriousLayout.csproj;x86

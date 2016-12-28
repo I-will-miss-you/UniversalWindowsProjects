@@ -1,0 +1,1 @@
+C:\Users\fonse\Documents\GitHub\UniversalWindowsProjects\MVA\UWP_08\RowDefinitions\RowDefinitions\RowDefinitions.csproj;x86
