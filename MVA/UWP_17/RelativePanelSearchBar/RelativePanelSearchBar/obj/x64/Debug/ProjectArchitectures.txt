@@ -1,0 +1,1 @@
+C:\Users\fonse\Documents\GitHub\UniversalWindowsProjects\MVA\UWP_17\RelativePanelSearchBar\RelativePanelSearchBar\RelativePanelSearchBar.csproj;x64

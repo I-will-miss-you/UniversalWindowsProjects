@@ -1,0 +1,1 @@
+C:\Users\fonse\Documents\GitHub\UniversalWindowsProjects\MVA\UWP_17\RelativePanelExample\RelativePanelExample\RelativePanelExample.csproj;x64

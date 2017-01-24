@@ -1,0 +1,1 @@
+C:\Users\fonse\Documents\GitHub\UniversalWindowsProjects\MVA\UWP_20\ControlsExamplePart1\ControlsExamplePart1\ControlsExamplePart1.csproj;x64
